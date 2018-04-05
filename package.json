@@ -2,9 +2,7 @@
   "name": "scraper",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "server.js"
   },
   "dependencies": {
     "axios": "^0.16.2",
@@ -14,7 +12,6 @@
     "express-handlebars": "^3.0.0",
     "express-router": "0.0.1",
     "mongojs": "^2.4.1",
-    "mongoose": "^4.12.3",
-    "morgan": "^1.9.0"
+    "mongoose": "^4.12.3"
   }
 }
